@@ -9,10 +9,10 @@ Any where you want because there isn't a formal in-person event. The whole thing
 
 # When?
 The event is not set on a repeating schedule, but does have a structured timeline:
-1. _Nominations (3 days)_. Game/mechanics are nominated for the event. Participants should follow the Nomination Guidelines below.
-2. _Voting (1 day)_. A poll is created based on nominations. Results of the poll will determine the game/mechanic for the event. 
-3. _Development (30 days)_. Participants have until the end of the month to recreate the selected mechanic!
-4. _Review (???)_. This period doesn't have a fixed timeline as people are encouraged to talk about submissions for as long as they want.
+1. __Nominations (3 days)__. Game/mechanics are nominated for the event. Participants should follow the Nomination Guidelines below.
+2. __Voting (1 day)__. A poll is created based on nominations. Results of the poll will determine the game/mechanic for the event. 
+3. __Development (30 days)__. Participants have until the end of the month to recreate the selected mechanic!
+4. __Review (???)__. This period doesn't have a fixed timeline as people are encouraged to talk about submissions for as long as they want.
 
 # How?
 You are welcome to join the event at any stage. Participate in the whole event or only leave feedback for submissions. Its up to you! Individual event details can be found in the [event folder](https://github.com/MadisonGameDev/cloning-club/events). Check the status of the event at the top of the file and follow the instructions below depending on the status.
