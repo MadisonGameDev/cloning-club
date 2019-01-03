@@ -5,7 +5,7 @@ Cloning Club (CC) is a monthly-ish event where participants attempt to recreate 
 The goal isn't to completely clone the game, but rather try your hand at building a new system and sharing it with the rest of the community. This is not a contest or competition, but a way to try new things and recieve code reviews.
 
 # Where?
-Any where you want because there isn't a formal in-person event. The whole thing is run online over the community Slack (https://madisongamedev.slack.com) and Github. However participants are welcome to meetup during/after and discuss their submissions.
+Any where you want because there isn't a formal in-person event. The whole thing is run online over the [community Slack](https://madisongamedev.slack.com) and Github. However participants are welcome to meetup during/after and discuss their submissions.
 
 # When?
 The event is not set on a repeating schedule, but does have a structured timeline:
