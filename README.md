@@ -17,17 +17,17 @@ The event is not set on a repeating schedule, but does have a structured timelin
 # How?
 You are welcome to join the event at any stage. Participate in the whole event or only leave feedback for submissions. Its up to you! Individual event details can be found in the [event folder](https://github.com/MadisonGameDev/cloning-club/tree/master/events). Check the status of the event at the top of the file and follow the instructions below depending on the status.
 
-## Nominations
+### Nominations
 Leave a comment on the latest commit of the event file with your nomination. Your comment should include:
 * name of the game
 * description of the mechanic
 * link to the game (steam, direct website, etc)
 * link to a video, image, or gif that demonstates the mechanic
 
-## Voting
+### Voting
 Leave a comment on the latest commit of the event file with your vote. Your vote should be one of the games in the nomination list.
 
-## Development
+### Development
 You can simply implement the chosen mechanic, make a mini game out of it, or turn it into a full on clone! There are a few rules you need to follow:
 * implement the chosen mechanic (duh)
 * be built with Unity
@@ -35,5 +35,5 @@ You can simply implement the chosen mechanic, make a mini game out of it, or tur
 
 To make a submission, leave a comment on the latest commit of the event file with a link to your repo. If you want any specific feedback (a specific file, performance considerations of a function, etc) include it in your comment.
 
-## Review
+### Review
 Browse the submitted implementations and leave comments in their respective repos or start a conversation in the community slack!
