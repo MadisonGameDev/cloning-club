@@ -15,7 +15,7 @@ The event is not set on a repeating schedule, but does have a structured timelin
 4. __Review (???)__. This period doesn't have a fixed timeline as people are encouraged to talk about submissions for as long as they want.
 
 # How?
-You are welcome to join the event at any stage. Participate in the whole event or only leave feedback for submissions. Its up to you! Individual event details can be found in the [event folder](https://github.com/MadisonGameDev/cloning-club/events). Check the status of the event at the top of the file and follow the instructions below depending on the status.
+You are welcome to join the event at any stage. Participate in the whole event or only leave feedback for submissions. Its up to you! Individual event details can be found in the [event folder](https://github.com/MadisonGameDev/cloning-club/tree/master/events). Check the status of the event at the top of the file and follow the instructions below depending on the status.
 
 ## Nominations
 Leave a comment on the latest commit of the event file with your nomination. Your comment should include:
