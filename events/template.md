@@ -1,5 +1,5 @@
 # Status
-Nominations | Voting | Development | __*Review*__
+Nominations | Voting | Development | __Review__
 
 # Nominations
 ## [Caves of Qud](https://store.steampowered.com/app/333640/Caves_of_Qud/)
